@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+tr,td{
+	border: 1px solid gray;
+	border-collapse: collapse;
+	
+}
